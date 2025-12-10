@@ -1,0 +1,4 @@
+JSP is the Java Server Page, used to create Dynamic web Page. why we use Jsp is using jsp we can create the seperate file for to write  html code more easier  rather than writing html code inside the servlet. 
+JSP has the six lifecycle, first is JSP is translated into servlet. Second is JSP is Servlet Compilation. Third is class loading, fourth is Object is created. Fifth is method Start. Last one is Jsp is destroyed.
+First cycle is done by Suraj_jsp.java, Seconjava is by Suraj_jsp.java. Third is by Tomcat is loaded the Webclassloader into a memory. fourt is by tomcat is created  oject for JSP servlet class. 
+Jsp has archieving  lifecycle by using three method Init(0
