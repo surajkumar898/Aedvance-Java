@@ -1,0 +1,8 @@
+EntityManagerFactory -> establish connection with database
+Entitymanager -> Interact with Database
+//persist()
+find()
+//remove()
+//merge()
+Entitytransaction -> control the transaction. 
+
