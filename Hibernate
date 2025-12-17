@@ -1,8 +1,18 @@
+Hibernate is connects the Java objects to database table by using entity class and annotation.
+
+Main Annotation used in Hibernate 
+@Entity and @Id  
+Entity is used to map Java class to Database table 
+Id is used to set the primary key in the table.  field entity  set as a primary key
+
 EntityManagerFactory -> establish connection with database
-Entitymanager -> Interact with Database
+Entitymanager -> Interact with Database by performing the crud operation of Insert, Update, delete , Saves the data
+
 //persist()
 find()
 //remove()
 //merge()
 Entitytransaction -> control the transaction. 
+
+
 
