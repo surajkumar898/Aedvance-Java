@@ -1,0 +1,7 @@
+SpringBoot is the java application. It is used to simplify the configuration it is used to develop the Java application.
+
+Features of the Springboot are auto-configuration, springboot intializer, springboot starter, springboot accutator.
+
+AutoConfiguration is the hosting the website on the webserver by adding the dependencyin pom.xml file inside the spring boot file, spring boot automatically configure the server port and every other requirement we need .
+
+Springboot starter are spring web, springboot dev tools are for web application. MySQL, sprinng data jpa are for Database
